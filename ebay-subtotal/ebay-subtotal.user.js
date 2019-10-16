@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         eBay Subtotal
-// @version      0.1
+// @version      0.2
 // @description  Add a real subtotal to eBay Order Details print view
 // @author       Jeremy Lee
 // @match        https://www.ebay.com/vod/FetchOrderDetails*
 // @grant        none
+// @updateURL    https://github.com/cbnva/UserScripts/raw/master/ebay-subtotal/ebay-subtotal.user.js
 // ==/UserScript==
 
 (function() {
